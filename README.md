@@ -9,8 +9,6 @@ This section includes resources for learning mathematical concepts relevant to p
   Description: A comprehensive video series covering Linear Algebra concepts, perfect for understanding matrices, vectors, and more.
 - **[anaHr YouTube Channel](https://www.youtube.com/@anaHr)** (in Arabic)  
   Description: This channel is great for mathematics, offering valuable tutorials and explanations.
-- **[Husein / حسين YouTube Channel](https://www.youtube.com/@Husein.)** (in Arabic)  
-  Description: My own channel, offering useful mathematics tutorials with clear and engaging content.
 
 ## 💻 Programming
 This section includes resources for learning programming languages, tools, and systems, organized by topic.
