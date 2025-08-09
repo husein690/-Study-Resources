@@ -20,7 +20,7 @@ This section includes resources for learning programming languages, tools, and s
 ### C++
 - **[Fundamentals of Programming with C++ - Programming Advices](https://www.youtube.com/@ProgrammingAdvices/featured)** (in Arabic)  
   Description: A detailed C++ course with practical examples, ideal for beginners and intermediate learners.
-- **[C++ Playlist - SubZero](https://www.youtube.com/watch?v=OuP5EKqMcBA&list=PLBdyyeW_Z41DykncH9zzMk8T7Rm5UlZXd)** (in Arabic)  
+- **[C++ Playlist - SubZero](https://www.youtube.com/watch?v=XDuWyYxksXU?si=q3PTg6wMCt_WVc69)** (in Arabic)  
   Description: A well-structured playlist covering C++ fundamentals and advanced topics.
 
 ### Networking
@@ -28,9 +28,9 @@ This section includes resources for learning programming languages, tools, and s
   Description: A detailed video course explaining CCNA and networking fundamentals.
 
 ### Linux & Bash Scripting
-- **[Bash Scripting Tutorial](https://www.youtube.com/watch?v=yngg2G8taBs&list=PLsWFuR2EEv1uIV2vzqAhSa8gI6IG9dMpc)** (in Arabic)  
+- **[Bash Scripting Tutorial](https://www.youtube.com/watch?v=OuP5EKqMcBA&list=PLBdyyeW_Z41DykncH9zzMk8T7Rm5UlZXd)** (in Arabic)  
   Description: An excellent playlist for learning Bash scripting, covering scripting techniques for automation.
-- **[Linux File System and System Basics](https://www.youtube.com/watch?v=XDuWyYxksXU?si=q3PTg6wMCt_WVc69)** (in Arabic)  
+- **[Linux File System and System Basics](https://www.youtube.com/watch?v=yngg2G8taBs&list=PLsWFuR2EEv1uIV2vzqAhSa8gI6IG9dMpc)** (in Arabic)  
   Description: A great resource for understanding the Linux file system and how the operating system works.
 
 ## 🛠 How to Use This Repository
