@@ -33,8 +33,8 @@ This section includes resources for learning programming languages, tools, and s
 - **[Linux File System and System Basics](https://www.youtube.com/watch?v=yngg2G8taBs&list=PLsWFuR2EEv1uIV2vzqAhSa8gI6IG9dMpc)** (in Arabic)  
   Description: A great resource for understanding the Linux file system and how the operating system works.
 
-  ## Ethical Hacking
-  **[Ethical Hacking Course for Beginners](https://youtube.com/playlist?list=PLMuAdKgHarVrcZCqzJFdNlTiKz66U19Xk&si=qHSCW3meIJBwGa1K)** (in Arabic)  
+## Ethical Hacking
+- **[Ethical Hacking Course for Beginners](https://youtube.com/playlist?list=PLMuAdKgHarVrcZCqzJFdNlTiKz66U19Xk&si=qHSCW3meIJBwGa1K)** (in Arabic)  
 
 ## 🛠 How to Use This Repository
 - Browse the sections above to find resources by topic.
