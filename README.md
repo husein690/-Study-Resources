@@ -14,7 +14,7 @@ This section includes resources for learning mathematical concepts relevant to p
 This section includes resources for learning programming languages, tools, and systems, organized by topic.
 
 ### Python
-- **[Python for Beginners - Elzero Web School](https://youtu.be/mvZHDpCHphk?si=rRPWlOct_SuBq0pI)** (in Arabic)  
+- **[Python for Beginners - ]()** (in Arabic)  
   Description: A beginner-friendly Python course covering basics to intermediate concepts.
 
 ### C++
