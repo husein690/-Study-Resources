@@ -36,6 +36,9 @@ This section includes resources for learning programming languages, tools, and s
 ## Ethical Hacking
 - **[Ethical Hacking Course for Beginners](https://youtube.com/playlist?list=PLMuAdKgHarVrcZCqzJFdNlTiKz66U19Xk&si=qHSCW3meIJBwGa1K)** (in Arabic)  
 
+## GitHub 
+- **[ Github ](https://youtu.be/Q6G-J54vgKc?si=Jt0YvoijUSexretM)** (in Arabic)
+
 ## 🛠 How to Use This Repository
 - Browse the sections above to find resources by topic.
 - Click the links to access tutorials, videos, or other materials. Note that most resources are in Arabic, but they can be used with translation tools if needed.
