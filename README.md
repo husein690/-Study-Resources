@@ -32,9 +32,7 @@ This section includes resources for learning programming languages, tools, and s
   Description: An excellent playlist for learning Bash scripting, covering scripting techniques for automation.
 - **[Linux File System and System Basics](https://www.youtube.com/watch?v=yngg2G8taBs&list=PLsWFuR2EEv1uIV2vzqAhSa8gI6IG9dMpc)** (in Arabic)  
   Description: A great resource for understanding the Linux file system and how the operating system works.
-
-## Ethical Hacking
-- **[Ethical Hacking Course for Beginners](https://youtube.com/playlist?list=PLMuAdKgHarVrcZCqzJFdNlTiKz66U19Xk&si=qHSCW3meIJBwGa1K)** (in Arabic)  
+ 
 
 ## GitHub 
 - **[ Github all basics](https://youtu.be/Q6G-J54vgKc?si=Jt0YvoijUSexretM)** (in Arabic)
